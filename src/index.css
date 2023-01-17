@@ -13,3 +13,12 @@ body {
   background-color: #dadada;
 }
 
+h1 {
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.651);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 1rem 0;
+}
